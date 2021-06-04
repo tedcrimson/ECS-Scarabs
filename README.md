@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/tedcrimson/ECS-Scarabs/master/Resources/preview.gif)
